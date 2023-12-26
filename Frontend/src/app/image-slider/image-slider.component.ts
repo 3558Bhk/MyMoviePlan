@@ -58,6 +58,17 @@ export class ImageSliderComponent {
       thumbImage: 'https://st1.bollywoodlife.com/wp-content/uploads/2019/07/super-30-3point5.jpg',
       //title: 'Image 9',
       alt: 'Super30'
+    }, {
+      image: 'https://i.ytimg.com/vi/Fcig1UN6Y6E/maxresdefault.jpg',
+      thumbImage: 'https://i.ytimg.com/vi/Fcig1UN6Y6E/maxresdefault.jpg',
+      //title: 'Image 10',
+      alt: 'Leo'
+    }, {
+      image:'https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/2/17/original/63e069f3-011a-47ba-868a-62052aed237a.jpeg',
+      thumbImage: 'https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/2/17/original/63e069f3-011a-47ba-868a-62052aed237a.jpeg',
+      //title: 'Image 10',
+      alt : 'tejas',
+      id: "Family"
     }
 ];
 }
